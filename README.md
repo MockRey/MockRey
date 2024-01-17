@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python libs for data analysis, SQL and Business Intelligence**
 
-- 👨‍💻 All of my projects are available at [my repos page](my repos page)
+- 👨‍💻 All of my projects are available at my repos page
 
 - 📫 How to reach me **sachenko.v528@gmail.com**
 
